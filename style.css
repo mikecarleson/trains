@@ -1,0 +1,15 @@
+.jumbotron {
+    background: url("./train.jpg") center no-repeat;
+    background-size: cover;
+}
+.title {
+    color: black;
+    -webkit-text-fill-color: white; 
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-size: 6rem;
+}
+
+body {
+    background: black;
+}
